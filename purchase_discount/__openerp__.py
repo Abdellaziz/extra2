@@ -21,7 +21,7 @@
 ##############################################################################
 {
     "name": "Purchase order lines with discounts",
-    "author": "aziz, fatma, ameni"
+    "author": "aziz"
               "Acysos S.L., "
               "Serv. Tecnol. Avanzados - Pedro M. Baeza, "
               "AvanzOSC, S.L., "
